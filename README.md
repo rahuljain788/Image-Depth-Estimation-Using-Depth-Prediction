@@ -1,5 +1,6 @@
 # Image-Depth-Estimation-Using-Depth-Prediction
-
+### Pre-requisite
+    pip install -q git+https://github.com/huggingface/transformers.git
 ### Introduction
 
     Image depth estimation is about figuring out how far away objects in an image are. 
